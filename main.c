@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 void main(void) {
-    // Este es un comentario
-    printf("Hola, mundo!");
+    // Este es un mensaje de despedida
+    printf("Adios mundo cruel!");
     return 0;
 }
 
